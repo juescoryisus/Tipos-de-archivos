@@ -1,0 +1,6 @@
+jesus,19,informatica
+jose,19,gestion
+rg,34,dfagr
+jesus,19,informatica
+1,jesus,19,informatica
+2,jeus ,23,sdgsad

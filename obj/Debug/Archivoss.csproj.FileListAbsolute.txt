@@ -1,0 +1,13 @@
+C:\Users\jesus\source\repos\Archivoss\Archivoss\bin\Debug\Archivoss.exe.config
+C:\Users\jesus\source\repos\Archivoss\Archivoss\bin\Debug\Archivoss.exe
+C:\Users\jesus\source\repos\Archivoss\Archivoss\bin\Debug\Archivoss.pdb
+C:\Users\jesus\source\repos\Archivoss\Archivoss\obj\Debug\Archivoss.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\Archivoss\Archivoss\obj\Debug\Archivoss.Form1.resources
+C:\Users\jesus\source\repos\Archivoss\Archivoss\obj\Debug\Archivoss.Properties.Resources.resources
+C:\Users\jesus\source\repos\Archivoss\Archivoss\obj\Debug\Archivoss.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\Archivoss\Archivoss\obj\Debug\Archivoss.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Archivoss\Archivoss\obj\Debug\Archivoss.exe
+C:\Users\jesus\source\repos\Archivoss\Archivoss\obj\Debug\Archivoss.pdb
+C:\Users\jesus\source\repos\Archivoss\Archivoss\obj\Debug\Archivoss.Secuencial.resources
+C:\Users\jesus\source\repos\Archivoss\Archivoss\obj\Debug\Archivoss.Secuencial_indexado.resources
+C:\Users\jesus\source\repos\Archivoss\Archivoss\obj\Debug\Archivoss.Acceso_directo.resources
